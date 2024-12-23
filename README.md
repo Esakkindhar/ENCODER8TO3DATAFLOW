@@ -49,15 +49,17 @@ assign c=(din[1]| din[3]| din[5]| din[7]);
 endmodule
 ```
 
-Developed by: RegisterNumber:24900649
+Developed by:MAHALINGA JEYANTH V
+RegisterNumber:24900649
 
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
-![Screenshot 2024-11-20 082338](https://github.com/user-attachments/assets/2e87c521-2238-42a5-9fc7-c14859b3b7b5)
+![Screenshot 2024-12-23 135953](https://github.com/user-attachments/assets/1724c129-5060-4aa9-aeb3-0b482d23c539)
+
 
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
-![Screenshot 2024-11-22 111600](https://github.com/user-attachments/assets/7ba4e08e-230b-414b-bc27-dab7583149f4)
+![Screenshot 2024-12-23 140012](https://github.com/user-attachments/assets/0ce4b05e-904f-4642-b250-38f00ac1f04a)
 
 
 **RESULTS**
